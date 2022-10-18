@@ -1,0 +1,4 @@
+﻿  Ben Smith AssignmentsGrade.cpp
+C:\Users\Ben\Desktop\Benjamin Smith AssignmentGrade.cpp\Benjamin Smith AssignmentGrade.cpp\Ben Smith AssignmentsGrade.cpp(31,5): error C3861: 'getline': identifier not found
+C:\Users\Ben\Desktop\Benjamin Smith AssignmentGrade.cpp\Benjamin Smith AssignmentGrade.cpp\Ben Smith AssignmentsGrade.cpp(35,5): error C3861: 'getline': identifier not found
+C:\Users\Ben\Desktop\Benjamin Smith AssignmentGrade.cpp\Benjamin Smith AssignmentGrade.cpp\Ben Smith AssignmentsGrade.cpp(83,12): error C3861: 'getline': identifier not found

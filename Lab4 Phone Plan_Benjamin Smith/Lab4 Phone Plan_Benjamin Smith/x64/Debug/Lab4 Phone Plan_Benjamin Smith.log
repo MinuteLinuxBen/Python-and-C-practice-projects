@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Ben\Desktop\Lab4 Phone Plan_Benjamin Smith\Lab4 Phone Plan_Benjamin Smith\Source.cpp(88,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ben\Desktop\Lab4 Phone Plan_Benjamin Smith\Lab4 Phone Plan_Benjamin Smith\Source.cpp(92,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ben\Desktop\Lab4 Phone Plan_Benjamin Smith\Lab4 Phone Plan_Benjamin Smith\Source.cpp(97,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ben\Desktop\Lab4 Phone Plan_Benjamin Smith\Lab4 Phone Plan_Benjamin Smith\Source.cpp(101,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ben\Desktop\Lab4 Phone Plan_Benjamin Smith\Lab4 Phone Plan_Benjamin Smith\Source.cpp(103,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ben\Desktop\Lab4 Phone Plan_Benjamin Smith\Lab4 Phone Plan_Benjamin Smith\Source.cpp(64,16): warning C4101: 'bad_data': unreferenced local variable
+  Lab4 Phone Plan_Benjamin Smith.vcxproj -> C:\Users\Ben\Desktop\Lab4 Phone Plan_Benjamin Smith\x64\Debug\Lab4 Phone Plan_Benjamin Smith.exe
