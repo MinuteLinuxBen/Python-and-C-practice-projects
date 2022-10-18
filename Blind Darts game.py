@@ -18,7 +18,7 @@ def MainMenu():
                 MainMenu()
                 break
             elif selection==2:
-                # 1st Play game function
+                SinglePlayer()
                 DartsGameBoard()
                 MainMenu()
                 break
@@ -26,12 +26,13 @@ def MainMenu():
                 # 2nd Play game function
                 # Two player game
                 DartsGameBoard(True)
+                TwoPlayer()
                 MainMenu()
                 break
             elif selection==4:
                 # Append file for high score
                 # from player's name
-                # Highscore()
+                ReadHighScore()
                 MainMenu()
                 break
             elif selection==5:
@@ -45,8 +46,7 @@ def MainMenu():
                 print("Invalid selection. Please enter an option labeled 1-4")
                 MainMenu()
         except ValueError:
-            MainMenu()
-           
+            print("Invalid Selection. Please enter an option labeled 1-4")
     exit
 
 #1 Game's title/Inroduction
@@ -89,7 +89,13 @@ def BlindDartsAnimator(filenames,delay = 0.1, repeat = 1): #Default setting for 
             time.sleep(delay)
             os.system('cls')
 
-
+#3 Play Against Computer
+def TwoPlayer():
+    score = 25
+    while score <= 25 and score > 0:
+        print(f"{'-'*5}[Player 1 - {score}]{'-'*5}[Player 2 - {score}]{'-'*5}")
+        DartsGameBoard()
+    
 #3 Game Credits
 def GameCredits():
     print("Blind Darts Game Developers: ")
@@ -110,6 +116,7 @@ def EndGame():
     QUIT()
     print("\nBullseye! Thank you for playing!")
     exit
+
 
 
 def LogHighScore(highScore = 0):
@@ -150,8 +157,8 @@ def DartsGameBoard(isTwoPlayer = False):
     # current player false = player 2
     currPlayer = True
     player = ""
+
     
-   
     while True:
         for i in board:
             print("---- ---- ---- ---- ----")
@@ -166,7 +173,7 @@ def DartsGameBoard(isTwoPlayer = False):
         print("Right: D")
 
         if isTwoPlayer:
-            player = f"Player 1 - " if currPlayer else f"Player 2 - "
+            player = "Player 1 - " if currPlayer else "Player 2 - "
             currPlayer = not currPlayer
 
         if score == 0:
@@ -174,8 +181,7 @@ def DartsGameBoard(isTwoPlayer = False):
             print("game lost - too many guesses - score: " + str(score) + "pts")
             break
 
-        direction = input(player + " please select the following moves: ")
-        
+        direction = input(player + "please select the following moves: ")
 
         # every guess costs one point from the players score
         score -= 1
