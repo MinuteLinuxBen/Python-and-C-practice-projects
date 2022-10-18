@@ -1,0 +1,6 @@
+A square 5x5 dart board will be used for darts thrown by the player(s).
+In both game options the player(s) must get correctly the positions of the dart board.
+Whoever gains the position first wins with their score presented at the end of the game.
+The concept is a deduction system for up to 25 chances.
+Turns keep going until a score of 25 is fully deducted.
+Spaces are randomized with a number generator. Logic of guessing the X and Y coordinates are used.

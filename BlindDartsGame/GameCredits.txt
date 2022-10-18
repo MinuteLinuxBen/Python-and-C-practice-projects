@@ -1,0 +1,7 @@
+
+Game Developer
+
+Benjamin Smith- 
+Rules, Game Board, Title Screen
+Two Player Option, Win/Loose accumulator, Main Menu
+Single Play Option, Score Display, Darts placement 

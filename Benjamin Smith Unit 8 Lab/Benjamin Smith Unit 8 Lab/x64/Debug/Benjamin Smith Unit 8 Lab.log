@@ -1,0 +1,6 @@
+﻿  Benjamin Smith_Soccer.cpp
+C:\Users\Ben\Desktop\Benjamin Smith Unit 8 Lab\Benjamin Smith Unit 8 Lab\Benjamin Smith_Soccer.cpp(109,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ben\Desktop\Benjamin Smith Unit 8 Lab\Benjamin Smith Unit 8 Lab\Benjamin Smith_Soccer.cpp(218,24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ben\Desktop\Benjamin Smith Unit 8 Lab\Benjamin Smith Unit 8 Lab\Benjamin Smith_Soccer.cpp(232,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ben\Desktop\Benjamin Smith Unit 8 Lab\Benjamin Smith Unit 8 Lab\Benjamin Smith_Soccer.cpp(243,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Benjamin Smith Unit 8 Lab.vcxproj -> C:\Users\Ben\Desktop\Benjamin Smith Unit 8 Lab\x64\Debug\Benjamin Smith Unit 8 Lab.exe

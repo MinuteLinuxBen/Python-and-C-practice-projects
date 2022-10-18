@@ -1,0 +1,16 @@
+--Stats Reflected By Recent Game--
+
+Ben Stats
+
+Misses: 0
+Hits: 8
+Goods: 1
+Bullseye's: 0
+
+Bhh Stats
+
+Misses: 1
+Hits: 3
+Goods: 2
+Bullseye's: 0
+

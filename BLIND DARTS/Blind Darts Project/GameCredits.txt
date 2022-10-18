@@ -1,0 +1,11 @@
+
+Game Developers
+
+Benjamin Smith- 
+Rules, Game Board, Title Screen
+
+Ketnie Domond- 
+Two Player Option, Win/Loose accumulator, Main Menu
+
+Kenny Roque- 
+Single Play Option, Score Display, Darts placement 
