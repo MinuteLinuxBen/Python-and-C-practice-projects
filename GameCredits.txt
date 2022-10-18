@@ -1,11 +1,7 @@
 
-Game Developers
+Game Developer
 
 Benjamin Smith- 
-Animations, Title/Quit Screens, Stats Page
-
-Ketnie Domond- 
-Random number selection, Main Menu, Two-Player Mode
-
-Kenny Roque- 
-Single Play Mode, Score Display, Score Change 
+Rules, Game Board, Title Screen
+Two Player Option, Win/Loose accumulator, Main Menu
+Single Play Option, Score Display, Darts placement 

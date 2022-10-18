@@ -1,7 +1,6 @@
-The player(s) will be playing against a random number selection representing the sqaces on a dart board.
-On Mode Selection Player 1 can choose to go against a CPU or another user.
-When the game begins players will be given 3 darts to "blindly throw" each turn
-Once a dart is thrown in it will choose a random number representing a "space" on the board.
-The number chosen will deduct the points of the current player. This process is repeated until there are no more darts.
-When a player runs out of darts, their turn is over will change to the second player or CPU.
-When a player's points reach 0 they will be the winner and the game will end.
+A square 5x5 dart board will be used for darts thrown by the player(s).
+In both game options the player(s) must get correctly the positions of the dart board.
+Whoever gains the position first wins with their score presented at the end of the game.
+The concept is a deduction system for up to 25 chances.
+Turns keep going until a score of 25 is fully deducted.
+Spaces are randomized with a number generator. Logic of guessing the X and Y coordinates are used.
