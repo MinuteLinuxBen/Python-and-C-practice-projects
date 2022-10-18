@@ -1,0 +1,7 @@
+--Stats Reflected By Recent Game--
+
+Misses: 0
+Hits: 3
+Goods: 4
+Bullseye's: 0
+

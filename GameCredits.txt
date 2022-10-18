@@ -1,0 +1,11 @@
+
+Game Developers
+
+Benjamin Smith- 
+Animations, Title/Quit Screens, Stats Page
+
+Ketnie Domond- 
+Random number selection, Main Menu, Two-Player Mode
+
+Kenny Roque- 
+Single Play Mode, Score Display, Score Change 
